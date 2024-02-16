@@ -52,9 +52,9 @@ While Apiggee local development offers undeniable benefits, it's not without its
 
 4. Additional Considerations:
 
-Limited team collaboration: Local development primarily benefits individual developers. Collaboration can be more challenging compared to working directly in the shared environment of Apigee Edge.
-Version control and deployment complexity: Managing code versions and dependencies across local development and Apigee Edge environments can add complexity, requiring careful attention to version control practices and deployment processes.
+* Limited team collaboration: Local development primarily benefits individual developers. Collaboration can be more challenging compared to working directly in the shared environment of Apigee Edge.
+* Version control and deployment complexity: Managing code versions and dependencies across local development and Apigee Edge environments can add complexity, requiring careful attention to version control practices and deployment processes.
 
 5. Overall:
 
-Although Apigee local development provides significant advantages for rapid development, testing, and debugging, it's essential to be aware of its limitations. Consider these potential drawbacks when deciding whether and how to integrate local development into your workflow. For production-critical APIs or scenarios involving complex interactions and scalability, comprehensive testing in Apigee Edge remains indispensable.
+* Although Apigee local development provides significant advantages for rapid development, testing, and debugging, it's essential to be aware of its limitations. Consider these potential drawbacks when deciding whether and how to integrate local development into your workflow. For production-critical APIs or scenarios involving complex interactions and scalability, comprehensive testing in Apigee Edge remains indispensable.
